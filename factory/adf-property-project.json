@@ -1,0 +1,9 @@
+{
+	"name": "adf-property-project",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c82dab7e-d0ca-4ae6-b3ba-3b3c8dc9a4d2",
+		"tenantId": "e916a6a6-00bd-4f1b-b46b-6dc0ea6c12bb"
+	}
+}
